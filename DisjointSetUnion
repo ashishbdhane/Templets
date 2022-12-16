@@ -1,3 +1,5 @@
+// @author: stash ¯\_(ツ)_/¯
+
 class DisjointSet{
 public:
     vector<int> size,mini,maxi,parent,rank;
